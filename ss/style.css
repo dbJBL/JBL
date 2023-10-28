@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid;
+  }
+.dachi {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+  }
+
+  .search {
+    background-color: whitesmoke;
+  }
